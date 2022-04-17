@@ -1,0 +1,50 @@
+#caja{
+    width: 300px;
+    height: 50px;
+    border: 2px dashed black;
+    background: #ccc;
+    text-align: center;
+    line-height: 50px;
+    color: black;
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 15px;
+}
+#caja2{
+    width: 300px;
+    height: 50px;
+    border: 2px dashed black;
+    background: #ccc;
+    text-align: center;
+    line-height: 50px;
+    color: black;
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 15px;
+}
+
+#caja3{
+    width: 300px;
+    height: 50px;
+    border: 2px dashed black;
+    background: #ccc;
+    text-align: center;
+    line-height: 50px;
+    color: black;
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 15px;
+}
+
+#caja4{
+    width: 300px;
+    height: 50px;
+    border: 2px dashed black;
+    background: #ccc;
+    text-align: center;
+    line-height: 50px;
+    color: black;
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 15px;
+}

@@ -1,0 +1,29 @@
+#caja{
+    width:250px ;
+    height: 250px;
+    border: 2px solid black;
+    background: yellow;
+}
+input{
+    padding: 20px;
+    width: 300px;
+    font-size: 20px;
+}
+#datos{
+    border: 4px dashed black;
+    padding:10px;
+    width: 250px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: none;
+}
+#sigueme{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    display: block;
+    background: yellow;
+    opacity: 1;
+    border-radius: 999px;
+}
